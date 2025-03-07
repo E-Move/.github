@@ -1,4 +1,4 @@
-# SPOTIFY
+# E-MOVE
 
 This work is being carried out for educational purposes. Our goal with it is to learn new technologies and good programming practices.
 

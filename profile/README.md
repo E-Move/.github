@@ -1,16 +1,31 @@
-# SPOTIFY CLONE <img alt="Spotify" height="20" width="60" src="workflows/spotify.svg">
+# E-MOVE
 
-Um projeto para recriar a experiência do Spotify utilizando tecnologias modernas.
+Um projeto de e-commerce utilizando tecnologias modernas.
 
 ## Tecnologias Utilizadas
 
-- **Front-end**: Vue.js
-- **Back-end**: Node.js com Express
-- **Banco de Dados**: PostgreSQL
-- **Cache**: Redis
-- **Estilização**: Tailwind CSS
+### Front-end:
+
+- Vue.js;
+- Prettier;
+- ESlint;
+- Pinia;
+- Axios;
+- TailwindCSS;
+- Vuetify.
+
+### Back-end:
+
+- Node.js;
+- Express
+- TypeScript;
+- Redis;
+- Prisma;
+- PostgreSQL.
 
 <div style="display: inline_block">
+  <img alt="Axios" height="30" width="40" src="workflows/axios.svg">
+  <img alt="ESlint" height="30" width="40" src="workflows/eslint.svg">
   <img alt="Express" height="30" width="40" src="workflows/express.svg">
   <img alt="GitHub" height="30" width="40" src="workflows/github.svg">
   <img alt="Node.JS" height="30" width="40" src="workflows/node.svg">
@@ -21,14 +36,10 @@ Um projeto para recriar a experiência do Spotify utilizando tecnologias moderna
   <img alt="Vite.JS" height="30" width="40" src="workflows/vite.svg">
   <img alt="VS Code" height="30" width="40" src="workflows/vscode.svg">
   <img alt="Vue.JS" height="30" width="40" src="workflows/vue.svg">
+  <img alt="Vuetify" height="30" width="40" src="workflows/vuetify.svg">
 
   <div><!--tecnologias-->
 
 ## Funcionalidades Previstas
 
 - Autenticação de usuários (Login/Registro)
-- Streaming de músicas
-- Criação e gerenciamento de playlists
-- Reprodução aleatória e loop
-- Pesquisa de músicas, álbuns e artistas
-- Sistema de favoritos
